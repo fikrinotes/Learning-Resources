@@ -24,14 +24,13 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [SQL Game](https://mystery.knightlab.com/)
 - [SQL Game - Police Department](https://sqlpd.com/)
 - [SQL Game - Lost at SQL](https://lost-at-sql.therobinlord.com/)
-- [codecademy](https://www.codecademy.com/learn) ( untuk belajar SQL)
+- [codecademy](https://www.codecademy.com/learn) (good to learn SQL)
 - [Data to Viz - Data Visualization Guide](https://www.data-to-viz.com/)
 - [Linkedin Learning](https://www.linkedin.com/learning/)
 - [Hands-on Programming with R](https://rstudio-education.github.io/hopr/)
 - [Mastering R Shiny](https://mastering-shiny.org/)
 - [R Graphics Cookbook](https://r-graphics.org/)
 - [MIT - Using Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/) **(Highly Recomended for Quick Overview)**
-
 
 ## Tools
 - [Deepnote](https://deepnote.com/home)
@@ -53,7 +52,6 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [Microsoft's Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
 
 ## Machine Learning & Deep Learning
-
 - [mlcourse.ai](https://mlcourse.ai/book/index.html)
 - [Machine Learning From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Microsoft Machine Learning](https://microsoft.github.io/ML-For-Beginners/#/)
@@ -72,19 +70,16 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [MIT Open Learning - Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/)
 - [Statistics and Machine Learning in Python](https://duchesnay.github.io/pystatsml/)
 
-
 ## Game Development
-
 - [Unity Learn](https://learn.unity.com/)
 - [Learn Unreal Engine](https://www.unrealengine.com/en-US/learn)
 - [freeCodeCamp Game Dev Javascript](https://youtu.be/GFO_txvwK_c)
 - [CS50 Game Development](https://cs50.harvard.edu/games/2018/)
 - [MIT OCW Game Development](https://ocw.mit.edu/courses/cms-611j-creating-video-games-fall-2014/video_galleries/lecture-videos/)
 - [Coursera - Game Dev with C# and Unity](https://www.coursera.org/learn/introduction-programming-unity)
-- 
+  
 
 ## Cyber Security
-
 - [CS50 Cyber Security](https://cs50.harvard.edu/cybersecurity/2023/)
 - [Cybrary](https://app.cybrary.it/)
 - [Cyber Security Base 2022](https://cybersecuritybase.mooc.fi/)
@@ -102,7 +97,6 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 
 
 ## Full-Stack Software Development
-
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com/dashboard)
 - [Full Stack Open](https://fullstackopen.com/en/)
@@ -116,7 +110,6 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 
 
 ## Programming
-
 - [Mike Dane - Girrafe Academy](https://www.mikedane.com/) 
 - [Python Basics - A Complete Python Courses](https://pythonbasics.org/)
 - [CS50](https://cs50.harvard.edu/x/2023/)
@@ -148,7 +141,6 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 
 
 ## App Development
-
 - [Android Developer Courses](https://developer.android.com/courses?hl=id)
 - [Google Developers](https://developers.google.com/)
 - [Udacity-Google Android Development With Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
@@ -159,9 +151,7 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 ## Cloud Services
 - [AWS Skill Builder](https://explore.skillbuilder.aws/learn)
 
-
 ## General
-
 - [MIT OpenCourseWare](https://ocw.mit.edu/)
 - [IBM skills build](https://skillsbuild.org/)
 - [Khan Academy](https://www.khanacademy.org/)
@@ -180,10 +170,6 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [Learn Digital With Google](https://learndigital.withgoogle.com/digitalgarage/)
 - [Scrimba](https://scrimba.com/dashboard)
 
-
-## Another Resources 
-- [[202303251338 | freeCodeCamp - Mario Games, Djago, etc]]
-
 ## Coding Exercises
 - [Exercism](https://exercism.org/dashboard)
 - [Project Euler](https://projecteuler.net/)
@@ -192,14 +178,11 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [TLX TOKI](https://tlx.toki.id/problems)
 - [SQL Exerecise](https://www.sql-practice.com/)
 
-
 ## Ultimate
 - [Oracle University](https://education.oracle.com/)
 
-
 ## VIM
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
-
 
 ## Linguistics
 - [Localingual : listen to the voices of the world](https://www.localingual.com/)
