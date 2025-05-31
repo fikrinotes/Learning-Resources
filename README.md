@@ -8,6 +8,7 @@ A List of Learning Resources, Curated by Fikri Mulyana Setiawan
 - [Data Analysis with Python](https://wesmckinney.com/book/)
 - [Jovian](https://jovian.com/)
 - [Kaggle](https://www.kaggle.com/)
+- [Dive into Deep Learning (D2L)](https://d2l.ai/)
 - [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [R for Data Science (2nd Edition)](https://r4ds.hadley.nz/)
 - [Advanced R (2nd Edition)](https://adv-r.hadley.nz/)
